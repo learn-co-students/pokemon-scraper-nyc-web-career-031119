@@ -17,7 +17,7 @@ We have set up your scraper class for you, which you can see in
 run the `SQL` statement to set up your database in `db/pokemon.db`. Your only
 job is to build out the methods to save and find pokemon in the database.
 
-### Create Our Pokemon Class
+### Create Our Pokelearnmon Class
 Our `Pokemon` class can be found in `lib/pokemon.rb`.
 This is where you will build your methods.
 Notice that #initialize requires [keyword arguments](http://stackoverflow.com/questions/15062570/when-to-use-keyword-arguments-aka-named-parameters-in-ruby).  
